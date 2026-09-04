@@ -1,33 +1,43 @@
 about:
-  description: TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
+  description:
+  |
+    TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
   license: MIT
   homepage: https://chrisbuilds.github.io/terminaltexteffects/
   head: 7a91dd9
   archived: false
   latestVersion: release-0.15.0
-  collectedAt: 2026-09-04T04:22:55Z
+  collectedAt: 2026-09-04T19:30:44Z
 timeline:
   created: 2023-07-24
   lastCommit: 2026-06-10
   lastRelease: 2026-05-10
 popularity:
-  star: 4223
+  star: 4225
   watcher: 16
   fork: 94
   release: 9
   contributor: 7
-  pullRequest: 12
+  pullRequest: 27
   issue: 36
 language:
   Python: 1546102
   Nix: 1166
-totalLine: 1547268
+totalBytes: 1547268
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
     openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 6
     openIssue: 1
     commit: 270
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 10
+    openPR: 5
+    closedIssue: 11
+    openIssue: 2
+    commit: 482
+total:
+  release: 9
+  mergedPR: 15
+  openPR: 5
+  closedIssue: 34
+  openIssue: 2
+  commit: 1795
+---
+---
+
