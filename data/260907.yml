@@ -1,0 +1,160 @@
+about:
+  description: "TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library."
+  license: MIT
+  homepage: https://chrisbuilds.github.io/terminaltexteffects/
+  head: 7db8378
+  archived: false
+  latestVersion: "release-0.15.0"
+  collectedAt: 2026-09-07T04:53:12Z
+timeline:
+  created: 2023-07-24
+  lastCommit: 2026-09-07
+  lastRelease: 2026-05-10
+popularity:
+  star: 4235
+  watcher: 16
+  fork: 94
+  release: 9
+  contributor: 7
+  pullRequest: 27
+  issue: 36
+language:
+  Python: 1601025
+  Nix: 1166
+totalBytes: 1602191
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 30
+  last60d:
+    since: 2026-07-09
+    release: 0
+    mergedPR: 0
+    openPR: 5
+    closedIssue: 0
+    openIssue: 0
+    commit: 30
+  last90d:
+    since: 2026-06-09
+    release: 0
+    mergedPR: 0
+    openPR: 5
+    closedIssue: 0
+    openIssue: 1
+    commit: 30
+  last180d:
+    since: 2026-03-11
+    release: 1
+    mergedPR: 0
+    openPR: 5
+    closedIssue: 0
+    openIssue: 1
+    commit: 124
+  last360d:
+    since: 2025-09-12
+    release: 6
+    mergedPR: 7
+    openPR: 5
+    closedIssue: 6
+    openIssue: 1
+    commit: 292
+  last720d:
+    since: 2024-09-17
+    release: 7
+    mergedPR: 10
+    openPR: 5
+    closedIssue: 8
+    openIssue: 2
+    commit: 510
+total:
+  release: 9
+  mergedPR: 15
+  openPR: 5
+  closedIssue: 34
+  openIssue: 2
+  commit: 1825
+---
+path: /home/runner/.x-repo/github.com/ChrisBuilds/terminaltexteffects
+collectedAt: 2026-09-07T04:53:19Z
+loc:
+  Python:
+    code: 32843
+    comments: 148
+    blanks: 5301
+    files: 145
+  Yaml:
+    code: 129
+    comments: 3
+    blanks: 6
+    files: 1
+  Toml:
+    code: 82
+    comments: 0
+    blanks: 11
+    files: 1
+  Nix:
+    code: 45
+    comments: 0
+    blanks: 8
+    files: 2
+  Ini:
+    code: 11
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3713
+    blanks: 1577
+    files: 86
+  Text:
+    code: 0
+    comments: 263
+    blanks: 19
+    files: 18
+total:
+  code: 33321
+  comments: 4215
+  blanks: 6955
+  files: 254
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:53:21+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
