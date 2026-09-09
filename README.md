@@ -5,9 +5,9 @@ TerminalTextEffects (TTE) is a terminal visual effects engine, application, and 
 - **Upstream**: <https://github.com/ChrisBuilds/terminaltexteffects>
 - **Homepage**: <https://chrisbuilds.github.io/terminaltexteffects/>
 - **Latest release**: `release-0.15.0` (2026-05-10)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 4233 · **Forks**: 94 · **Open issues**: 36 · **Contributors**: 7
+- **Stars**: 4236 · **Forks**: 94 · **Open issues**: 36 · **Contributors**: 7
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/terminaltexteffects> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:15:22Z._
+_Last regenerated: 2026-09-09T05:08:25Z._
