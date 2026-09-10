@@ -4,7 +4,7 @@
 
 TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 
-![terminaltexteffects](https://repo.x-cmd.io/terminaltexteffects.svg)
+![terminaltexteffects](https://repo.x-cmd.io/terminaltexteffects.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install terminaltexteffects
 
 - **最新版本**: `release-0.15.0` (2026-05-10)
 - **最近提交**: 2026-09-10
-- **发布时间**: 2026-05-10T01:52:07Z
 
 ## 流行度
 
-- **Star**: 4,237 · **Fork**: 93 · **开放 issue**: 36 · **贡献者**: 7
+- **Star**: 4,238 · **Fork**: 93 · **开放 issue**: 36 · **贡献者**: 7
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ terminaltexteffects 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:37Z._
