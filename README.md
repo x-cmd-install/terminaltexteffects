@@ -12,6 +12,18 @@ TerminalTextEffects (TTE) is a terminal visual effects engine, application, and 
 x install terminaltexteffects
 ```
 
+## Code insight
+
+Total: **34,087** lines of code across **156** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 33,391 | 148 | 5,410 | 151 |
+| Bash | 428 | 25 | 30 | 1 |
+| Yaml | 129 | 3 | 6 | 1 |
+| Toml | 83 | 0 | 11 | 1 |
+| Nix | 45 | 0 | 8 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ChrisBuilds/terminaltexteffects>
@@ -36,20 +48,23 @@ x install terminaltexteffects
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 45 |
+| last60d | 2026-07-12 | 0 | 0 | 5 | 0 | 0 | 45 |
 | 90d | 2026-06-12 | 0 | 0 | 5 | 0 | 1 | 45 |
+| last180d | 2026-03-14 | 1 | 0 | 5 | 0 | 1 | 139 |
 | 360d | 2025-09-15 | 6 | 7 | 5 | 6 | 1 | 307 |
+| last720d | 2024-09-20 | 7 | 10 | 5 | 8 | 2 | 525 |
 
-## Code size
+## Distribution status
 
-Total: **34,087** lines of code across **156** files in the top 5 languages.
+Reported by **21** distros on [repology.org](https://repology.org/project/terminaltexteffects). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 33,391 | 148 | 5,410 | 151 |
-| Bash | 428 | 25 | 30 | 1 |
-| Yaml | 129 | 3 | 6 | 1 |
-| Toml | 83 | 0 | 11 | 1 |
-| Nix | 45 | 0 | 8 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.15.0` | ✅ latest |
+| Debian 14 | `0.15.0` | ✅ latest |
+| Debian 13 | `0.12.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.14.2` | ⚠️ outdated |
+| Nix unstable | `0.15.0` | ✅ latest |
 
 ## Improve this data
 
@@ -60,4 +75,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:00:03Z._
