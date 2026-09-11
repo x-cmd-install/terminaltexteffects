@@ -14,14 +14,14 @@ x install terminaltexteffects
 
 ## Code insight
 
-Total: **34,087** lines of code across **156** files in the top 5 languages.
+Total: **34,588** lines of code across **156** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 33,391 | 148 | 5,410 | 151 |
+| Python | 33,891 | 149 | 5,527 | 151 |
 | Bash | 428 | 25 | 30 | 1 |
 | Yaml | 129 | 3 | 6 | 1 |
-| Toml | 83 | 0 | 11 | 1 |
+| Toml | 84 | 0 | 11 | 1 |
 | Nix | 45 | 0 | 8 | 2 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **34,087** lines of code across **156** files in the top 5 languages.
 ## Release
 
 - **Latest**: `release-0.15.0` (2026-05-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **34,087** lines of code across **156** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 15 · **Open PRs**: 5 · **Closed issues**: 34 · **Open issues**: 2 · **Commits**: 1840
+- **Releases**: 9 · **Merged PRs**: 15 · **Open PRs**: 5 · **Closed issues**: 34 · **Open issues**: 2 · **Commits**: 1852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 45 |
-| last60d | 2026-07-12 | 0 | 0 | 5 | 0 | 0 | 45 |
-| 90d | 2026-06-12 | 0 | 0 | 5 | 0 | 1 | 45 |
-| last180d | 2026-03-14 | 1 | 0 | 5 | 0 | 1 | 139 |
-| 360d | 2025-09-15 | 6 | 7 | 5 | 6 | 1 | 307 |
-| last720d | 2024-09-20 | 7 | 10 | 5 | 8 | 2 | 525 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 57 |
+| last60d | 2026-07-13 | 0 | 0 | 5 | 0 | 0 | 57 |
+| 90d | 2026-06-13 | 0 | 0 | 5 | 0 | 1 | 57 |
+| last180d | 2026-03-15 | 1 | 0 | 5 | 0 | 1 | 151 |
+| 360d | 2025-09-16 | 6 | 7 | 5 | 6 | 1 | 319 |
+| last720d | 2024-09-21 | 7 | 10 | 5 | 8 | 2 | 537 |
 
 ## Distribution status
 
@@ -75,4 +75,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:59:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:07:07Z._
