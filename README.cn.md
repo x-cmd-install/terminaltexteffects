@@ -4,7 +4,7 @@
 
 TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 
-![terminaltexteffects](https://repo.x-cmd.io/terminaltexteffects.svg?lang=zh)
+[![x-cmd/install — terminaltexteffects Code Quality Monitoring Repo Card](https://repo.x-cmd.io/terminaltexteffects.svg?lang=zh)](https://x-cmd.com/install/terminaltexteffects)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install terminaltexteffects
 
 ## 代码洞察
 
-合计: **36,900** 行代码（覆盖前 5 种语言、共 **163** 个文件）。
+合计: **36,974** 行代码（覆盖前 5 种语言、共 **164** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 36,207 | 146 | 6,054 | 158 |
+| Python | 36,281 | 145 | 6,089 | 159 |
 | Bash | 424 | 25 | 30 | 1 |
 | Yaml | 129 | 3 | 6 | 1 |
 | Toml | 84 | 0 | 11 | 1 |
@@ -33,26 +33,26 @@ x install terminaltexteffects
 ## 发布
 
 - **最新版本**: `release-0.15.0` (2026-05-10)
-- **最近提交**: 2026-09-18
+- **最近提交**: 2026-09-20
 
 ## 流行度
 
-- **Star**: 4,251 · **Fork**: 94 · **开放 issue**: 36 · **贡献者**: 7
+- **Star**: 4,253 · **Fork**: 94 · **开放 issue**: 36 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 9 · **已合并 PR**: 15 · **开放 PR**: 5 · **已关闭 issue**: 32 · **开放 issue**: 4 · **提交数**: 1883
+- **发布数**: 9 · **已合并 PR**: 15 · **开放 PR**: 5 · **已关闭 issue**: 32 · **开放 issue**: 4 · **提交数**: 1889
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 88 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 88 |
-| 90d | 2026-06-20 | 0 | 0 | 5 | 0 | 1 | 88 |
-| last180d | 2026-03-22 | 1 | 0 | 5 | 0 | 1 | 182 |
-| 360d | 2025-09-23 | 6 | 7 | 5 | 6 | 1 | 350 |
-| last720d | 2024-09-28 | 7 | 10 | 5 | 7 | 3 | 558 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 94 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 94 |
+| 90d | 2026-06-22 | 0 | 0 | 5 | 0 | 1 | 94 |
+| last180d | 2026-03-24 | 1 | 0 | 5 | 0 | 1 | 188 |
+| 360d | 2025-09-25 | 6 | 7 | 5 | 6 | 1 | 356 |
+| last720d | 2024-09-30 | 7 | 10 | 5 | 7 | 3 | 564 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ terminaltexteffects 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:11:43Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:22:31Z._
