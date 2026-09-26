@@ -47,12 +47,12 @@ Total: **38,148** lines of code across **165** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 130 |
-| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 130 |
-| 90d | 2026-06-27 | 0 | 0 | 5 | 0 | 0 | 130 |
-| last180d | 2026-03-29 | 1 | 0 | 5 | 0 | 1 | 224 |
-| 360d | 2025-09-30 | 6 | 7 | 5 | 6 | 1 | 392 |
-| last720d | 2024-10-05 | 7 | 10 | 5 | 7 | 3 | 596 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 130 |
+| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 130 |
+| 90d | 2026-06-28 | 0 | 0 | 5 | 0 | 0 | 130 |
+| last180d | 2026-03-30 | 1 | 0 | 5 | 0 | 1 | 224 |
+| 360d | 2025-10-01 | 6 | 7 | 5 | 6 | 1 | 392 |
+| last720d | 2024-10-06 | 7 | 10 | 5 | 7 | 3 | 596 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:10:44Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:18:14Z._
