@@ -14,12 +14,12 @@ x install terminaltexteffects
 
 ## Code insight
 
-Total: **38,148** lines of code across **165** files in the top 5 languages.
+Total: **38,855** lines of code across **165** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 37,455 | 150 | 6,389 | 160 |
-| Bash | 424 | 25 | 30 | 1 |
+| Python | 38,161 | 151 | 6,488 | 160 |
+| Bash | 425 | 25 | 30 | 1 |
 | Yaml | 129 | 3 | 6 | 1 |
 | Toml | 84 | 0 | 11 | 1 |
 | Nix | 45 | 0 | 8 | 2 |
@@ -33,26 +33,26 @@ Total: **38,148** lines of code across **165** files in the top 5 languages.
 ## Release
 
 - **Latest**: `release-0.15.0` (2026-05-10)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 
 ## Popularity
 
-- **Stars**: 4,268 · **Forks**: 94 · **Open issues**: 36 · **Contributors**: 7
+- **Stars**: 4,271 · **Forks**: 94 · **Open issues**: 36 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 15 · **Open PRs**: 5 · **Closed issues**: 32 · **Open issues**: 4 · **Commits**: 1925
+- **Releases**: 9 · **Merged PRs**: 15 · **Open PRs**: 5 · **Closed issues**: 32 · **Open issues**: 4 · **Commits**: 1934
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 130 |
-| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 130 |
-| 90d | 2026-06-28 | 0 | 0 | 5 | 0 | 0 | 130 |
-| last180d | 2026-03-30 | 1 | 0 | 5 | 0 | 1 | 224 |
-| 360d | 2025-10-01 | 6 | 7 | 5 | 6 | 1 | 392 |
-| last720d | 2024-10-06 | 7 | 10 | 5 | 7 | 3 | 596 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 139 |
+| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 139 |
+| 90d | 2026-06-29 | 0 | 0 | 5 | 0 | 0 | 139 |
+| last180d | 2026-03-31 | 1 | 0 | 5 | 0 | 1 | 233 |
+| 360d | 2025-10-02 | 6 | 7 | 5 | 6 | 1 | 401 |
+| last720d | 2024-10-07 | 7 | 10 | 5 | 7 | 3 | 605 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:18:14Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:42:08Z._
