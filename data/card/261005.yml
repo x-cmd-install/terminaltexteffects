@@ -1,0 +1,144 @@
+about:
+  description: "TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library."
+  license: MIT
+  homepage: https://chrisbuilds.github.io/terminaltexteffects/
+  head: e0eebf6
+  archived: false
+  latestVersion: "release-0.15.0"
+  latestRelease: "release-0.15.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-05T05:47:15Z
+timeline:
+  created: 2023-07-24
+  lastCommit: 2026-10-05
+  lastVersion: 2026-05-10
+  lastRelease: 2026-05-10
+  lastPrerelease: 
+popularity:
+  star: 4286
+  watcher: 16
+  fork: 96
+  release: 9
+  contributor: 7
+  pullRequest: 40
+  issue: 48
+language:
+  Python: 2147411
+  Shell: 38435
+  Nix: 1166
+  Jinja: 694
+  HTML: 446
+totalBytes: 2188152
+recent:
+  last30d:
+    since: 2026-09-05
+    release: 0
+    mergedPR: 12
+    openPR: 1
+    closedIssue: 12
+    openIssue: 0
+    commit: 114
+  last60d:
+    since: 2026-08-06
+    release: 0
+    mergedPR: 12
+    openPR: 1
+    closedIssue: 12
+    openIssue: 0
+    commit: 171
+  last90d:
+    since: 2026-07-07
+    release: 0
+    mergedPR: 12
+    openPR: 6
+    closedIssue: 12
+    openIssue: 0
+    commit: 171
+  last180d:
+    since: 2026-04-08
+    release: 1
+    mergedPR: 12
+    openPR: 6
+    closedIssue: 12
+    openIssue: 1
+    commit: 193
+  last360d:
+    since: 2025-10-10
+    release: 5
+    mergedPR: 19
+    openPR: 6
+    closedIssue: 17
+    openIssue: 1
+    commit: 428
+  last720d:
+    since: 2024-10-15
+    release: 7
+    mergedPR: 22
+    openPR: 6
+    closedIssue: 19
+    openIssue: 2
+    commit: 637
+total:
+  release: 9
+  mergedPR: 27
+  openPR: 6
+  closedIssue: 46
+  openIssue: 2
+  commit: 1966
+---
+path: /home/runner/.x-repo/github.com/ChrisBuilds/terminaltexteffects
+collectedAt: 2026-10-05T05:47:23Z
+loc:
+  Python:
+    code: 43353
+    comments: 173
+    blanks: 7193
+    files: 183
+  Bash:
+    code: 428
+    comments: 25
+    blanks: 30
+    files: 1
+  Toml:
+    code: 148
+    comments: 0
+    blanks: 22
+    files: 1
+  Yaml:
+    code: 134
+    comments: 3
+    blanks: 7
+    files: 1
+  Nix:
+    code: 45
+    comments: 0
+    blanks: 8
+    files: 2
+  Ini:
+    code: 12
+    comments: 0
+    blanks: 1
+    files: 1
+  Html:
+    code: 10
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4731
+    blanks: 1851
+    files: 143
+  Text:
+    code: 0
+    comments: 272
+    blanks: 19
+    files: 19
+total:
+  code: 44457
+  comments: 5290
+  blanks: 9188
+  files: 352
+---
+
+---
