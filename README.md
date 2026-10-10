@@ -14,11 +14,11 @@ x install terminaltexteffects
 
 ## Code insight
 
-Total: **50,991** lines of code across **204** files in the top 5 languages.
+Total: **51,334** lines of code across **204** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 45,849 | 178 | 7,597 | 199 |
+| Python | 46,192 | 179 | 7,654 | 199 |
 | PowerShell | 4,229 | 8 | 0 | 2 |
 | Bash | 432 | 31 | 30 | 1 |
 | Toml | 168 | 1 | 26 | 1 |
@@ -33,26 +33,26 @@ Total: **50,991** lines of code across **204** files in the top 5 languages.
 ## Release
 
 - **Latest**: `release-0.15.0` (2026-05-10)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 
 ## Popularity
 
-- **Stars**: 4,287 · **Forks**: 96 · **Open issues**: 84 · **Contributors**: 8
+- **Stars**: 4,290 · **Forks**: 96 · **Open issues**: 86 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 63 · **Open PRs**: 6 · **Closed issues**: 80 · **Open issues**: 4 · **Commits**: 2002
+- **Releases**: 9 · **Merged PRs**: 64 · **Open PRs**: 5 · **Closed issues**: 81 · **Open issues**: 5 · **Commits**: 2003
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 48 | 1 | 46 | 2 | 150 |
-| last60d | 2026-08-10 | 0 | 48 | 1 | 46 | 2 | 207 |
-| 90d | 2026-07-11 | 0 | 48 | 6 | 46 | 2 | 207 |
-| last180d | 2026-04-12 | 1 | 48 | 6 | 47 | 2 | 229 |
-| 360d | 2025-10-14 | 5 | 55 | 6 | 52 | 2 | 464 |
-| last720d | 2024-10-19 | 7 | 58 | 6 | 54 | 3 | 673 |
+| 30d | 2026-09-10 | 0 | 49 | 1 | 47 | 3 | 151 |
+| last60d | 2026-08-11 | 0 | 49 | 1 | 47 | 3 | 208 |
+| 90d | 2026-07-12 | 0 | 49 | 5 | 47 | 3 | 208 |
+| last180d | 2026-04-13 | 1 | 49 | 5 | 48 | 3 | 230 |
+| 360d | 2025-10-15 | 5 | 56 | 5 | 53 | 3 | 465 |
+| last720d | 2024-10-20 | 7 | 59 | 5 | 55 | 4 | 674 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:26:16Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:59:57Z._
