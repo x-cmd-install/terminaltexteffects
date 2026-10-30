@@ -1,0 +1,155 @@
+about:
+  description: "TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library."
+  license: MIT
+  homepage: https://chrisbuilds.github.io/terminaltexteffects/
+  head: fc6f75e
+  archived: false
+  latestVersion: "release-0.15.0"
+  latestRelease: "release-0.15.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:56:23Z
+timeline:
+  created: 2023-07-24
+  lastCommit: 2026-10-30
+  lastVersion: 2026-05-10
+  lastRelease: 2026-05-10
+  lastPrerelease: 
+popularity:
+  star: 4299
+  watcher: 15
+  fork: 98
+  release: 9
+  contributor: 10
+  pullRequest: 185
+  issue: 172
+language:
+  Python: 3369120
+  PowerShell: 135363
+  Shell: 45347
+  Nix: 1786
+  Jinja: 671
+  HTML: 446
+totalBytes: 3552733
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 0
+    mergedPR: 152
+    openPR: 2
+    closedIssue: 134
+    openIssue: 2
+    commit: 156
+  last60d:
+    since: 2026-08-31
+    release: 0
+    mergedPR: 153
+    openPR: 2
+    closedIssue: 134
+    openIssue: 2
+    commit: 307
+  last90d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 153
+    openPR: 2
+    closedIssue: 134
+    openIssue: 2
+    commit: 307
+  last180d:
+    since: 2026-05-03
+    release: 1
+    mergedPR: 153
+    openPR: 2
+    closedIssue: 135
+    openIssue: 2
+    commit: 327
+  last360d:
+    since: 2025-11-04
+    release: 5
+    mergedPR: 156
+    openPR: 2
+    closedIssue: 139
+    openIssue: 2
+    commit: 550
+  last720d:
+    since: 2024-11-09
+    release: 7
+    mergedPR: 163
+    openPR: 2
+    closedIssue: 142
+    openIssue: 3
+    commit: 773
+total:
+  release: 9
+  mergedPR: 169
+  openPR: 2
+  closedIssue: 168
+  openIssue: 4
+  commit: 2102
+---
+path: /home/runner/.x-repo/github.com/ChrisBuilds/terminaltexteffects
+collectedAt: 2026-10-30T05:56:41Z
+loc:
+  Python:
+    code: 72530
+    comments: 518
+    blanks: 12115
+    files: 303
+  PowerShell:
+    code: 4271
+    comments: 8
+    blanks: 0
+    files: 2
+  Bash:
+    code: 437
+    comments: 31
+    blanks: 30
+    files: 1
+  Yaml:
+    code: 204
+    comments: 1
+    blanks: 8
+    files: 1
+  Toml:
+    code: 201
+    comments: 8
+    blanks: 24
+    files: 1
+  Json:
+    code: 137
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 110
+    comments: 13
+    blanks: 7
+    files: 2
+  Nix:
+    code: 59
+    comments: 0
+    blanks: 9
+    files: 2
+  Html:
+    code: 10
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 8903
+    blanks: 3697
+    files: 232
+  Text:
+    code: 0
+    comments: 326
+    blanks: 25
+    files: 24
+total:
+  code: 78908
+  comments: 9820
+  blanks: 16009
+  files: 571
+---
+
+---
