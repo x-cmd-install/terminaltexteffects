@@ -2,8 +2,8 @@
   srcname: terminaltexteffects-git
   binname: terminaltexteffects-git
   visiblename: terminaltexteffects-git
-  version: 0.15.0.r325.g3eac3ed
-  origversion: 0.15.0.r325.g3eac3ed-1
+  version: 0.12.1.r9.g1613a8c
+  origversion: 0.12.1.r9.g1613a8c-2
   status: rolling
   summary: Visual effects engine applied to text in the terminal.
   maintainers:
@@ -144,7 +144,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: terminaltexteffects
   binnames:
     - python3-terminaltexteffects
@@ -157,7 +157,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: terminaltexteffects
   binnames:
     - python3-terminaltexteffects
