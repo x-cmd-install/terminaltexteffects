@@ -144,7 +144,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: terminaltexteffects
   binnames:
     - python3-terminaltexteffects
@@ -157,7 +157,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: terminaltexteffects
   binnames:
     - python3-terminaltexteffects
@@ -249,6 +249,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: terminaltexteffects
+  binnames:
+    - python3-terminaltexteffects
+  visiblename: terminaltexteffects
+  version: 0.15.0
+  origversion: 0.15.0-3
+  status: newest
+  maintainers:
+    - tar@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: terminaltexteffects
   binnames:
     - python3-terminaltexteffects
