@@ -37,7 +37,7 @@ Total: **78,538** lines of code across **309** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 98 · **Open issues**: 174 · **Contributors**: 10
+- **Stars**: 4,301 · **Forks**: 98 · **Open issues**: 174 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,16 +47,16 @@ Total: **78,538** lines of code across **309** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 116 | 0 | 96 | 1 | 106 |
-| last60d | 2026-09-07 | 0 | 158 | 0 | 137 | 1 | 269 |
-| 90d | 2026-08-08 | 0 | 158 | 0 | 137 | 1 | 312 |
-| last180d | 2026-05-10 | 1 | 158 | 0 | 138 | 1 | 319 |
-| 360d | 2025-11-11 | 5 | 161 | 0 | 141 | 1 | 537 |
-| last720d | 2024-11-16 | 7 | 168 | 0 | 145 | 2 | 777 |
+| 30d | 2026-10-08 | 0 | 110 | 0 | 90 | 1 | 106 |
+| last60d | 2026-09-08 | 0 | 158 | 0 | 137 | 1 | 269 |
+| 90d | 2026-08-09 | 0 | 158 | 0 | 137 | 1 | 312 |
+| last180d | 2026-05-11 | 0 | 158 | 0 | 138 | 1 | 319 |
+| 360d | 2025-11-12 | 5 | 161 | 0 | 141 | 1 | 537 |
+| last720d | 2024-11-17 | 7 | 168 | 0 | 145 | 2 | 777 |
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/terminaltexteffects). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/terminaltexteffects). **8** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,4 +75,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:55:14Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:09:46Z._
