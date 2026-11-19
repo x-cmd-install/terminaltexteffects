@@ -37,7 +37,7 @@ Total: **78,594** lines of code across **309** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,306 · **Forks**: 98 · **Open issues**: 176 · **Contributors**: 10
+- **Stars**: 4,308 · **Forks**: 97 · **Open issues**: 176 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **78,594** lines of code across **309** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 32 | 0 | 31 | 0 | 23 |
-| last60d | 2026-09-18 | 0 | 160 | 0 | 139 | 1 | 202 |
-| 90d | 2026-08-19 | 0 | 160 | 0 | 139 | 1 | 314 |
-| last180d | 2026-05-21 | 0 | 160 | 0 | 140 | 1 | 317 |
-| 360d | 2025-11-22 | 4 | 163 | 0 | 143 | 1 | 452 |
-| last720d | 2024-11-27 | 7 | 170 | 0 | 147 | 2 | 778 |
+| 30d | 2026-10-20 | 0 | 28 | 0 | 27 | 0 | 23 |
+| last60d | 2026-09-20 | 0 | 160 | 0 | 139 | 1 | 202 |
+| 90d | 2026-08-21 | 0 | 160 | 0 | 139 | 1 | 314 |
+| last180d | 2026-05-23 | 0 | 160 | 0 | 140 | 1 | 317 |
+| 360d | 2025-11-24 | 4 | 163 | 0 | 143 | 1 | 452 |
+| last720d | 2024-11-29 | 7 | 170 | 0 | 147 | 2 | 778 |
 
 ## Distribution status
 
@@ -75,4 +75,4 @@ Install metadata for terminaltexteffects lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:26:33Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:33:05Z._
